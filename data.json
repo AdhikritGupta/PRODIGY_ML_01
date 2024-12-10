@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Complete the project proposal",
+      "status": "In Progress"
+    },
+    {
+      "id": 2,
+      "description": "Prepare presentation slides",
+      "status": "Done"
+    },
+    {
+      "id": 3,
+      "description": "Schedule team meeting",
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "description": "Review the codebase",
+      "status": "Done"
+    },
+    {
+      "id": 5,
+      "description": "Write unit tests for the new module",
+      "status": "In Progress"
+    }
+  ]
+}

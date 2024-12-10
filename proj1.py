@@ -1,5 +1,4 @@
 import json
-import os
 
 file_path = 'data.json'
 class TaskManager:
